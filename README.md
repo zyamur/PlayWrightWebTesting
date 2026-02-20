@@ -52,8 +52,8 @@ playwrightproject/
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/[kullanici-adi]/playwrightproject.git
-cd playwrightproject
+git clone https://github.com/zyamur/PlayWrightWebTesting.git
+cd PlayWrightWebTesting
 ```
 
 2. Bağımlılıkları yükleyin:
@@ -163,11 +163,8 @@ browser=chromium
 
 MIT License
 
-## 👤 Yazar
-
-[Adınız]
-
 ## 🔗 Bağlantılar
 
 - [Playwright Documentation](https://playwright.dev/)
 - [SauceDemo Test Site](https://www.saucedemo.com/)
+
