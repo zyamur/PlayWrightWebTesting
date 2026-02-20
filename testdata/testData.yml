@@ -1,0 +1,8 @@
+standartUser: 'standard_user'
+standartPassword: 'secret_sauce'
+invalidUser: 'invalid_user'
+invalidPassword: 'wrong_password'
+
+firstName: 'Test'
+lastName: 'User'
+postalCode: '12345'
